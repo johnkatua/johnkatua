@@ -1,7 +1,7 @@
 ### Hello World 👋
-I am a fullstack software engineer from bangladesh
+I am a fullstack software engineer from Kenyaa
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+- 🌱 Learning Three.js
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)
