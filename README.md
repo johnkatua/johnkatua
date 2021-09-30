@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello 👋
 I am a fullstack software engineer from Kenya
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning Three.js
